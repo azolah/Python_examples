@@ -1,0 +1,82 @@
+{
+  "id": "default-library-001",
+  "name": "Kişisel Kütüphanem",
+  "description": "Öğrendiğim konuları organize ettiğim kişisel bilgi bankam",
+  "topics": [
+    {
+      "id": "3a25561d-5620-48c2-a166-576a5f69dc9f",
+      "title": "programlama",
+      "content": "",
+      "parent_id": null,
+      "children": [
+        {
+          "id": "e2ce3fd7-9449-49be-ad90-9f7778d63afd",
+          "title": "python",
+          "content": "",
+          "parent_id": "3a25561d-5620-48c2-a166-576a5f69dc9f",
+          "children": [
+            {
+              "id": "d68b87bc-8ae1-4698-97d1-8b0ffce682d1",
+              "title": "temeller",
+              "content": "vsdfgsfgfsdfdasfsd",
+              "parent_id": "e2ce3fd7-9449-49be-ad90-9f7778d63afd",
+              "children": [],
+              "examples": [],
+              "tags": [],
+              "created_at": "2025-09-07T21:06:17.568090",
+              "updated_at": "2025-09-07T21:06:36.423927",
+              "is_expanded": false
+            }
+          ],
+          "examples": [],
+          "tags": [],
+          "created_at": "2025-09-07T21:05:15.071633",
+          "updated_at": "2025-09-07T21:06:17.568090",
+          "is_expanded": false
+        },
+        {
+          "id": "c5692e40-c046-4c56-b46a-9492a6d09449",
+          "title": "kpss",
+          "content": "",
+          "parent_id": "3a25561d-5620-48c2-a166-576a5f69dc9f",
+          "children": [
+            {
+              "id": "5580e790-c8b8-4df9-9721-e3dd545635f1",
+              "title": "tarih",
+              "content": "tarih`kod_buraya if namr`[Link metni](URL_buraya)",
+              "parent_id": "c5692e40-c046-4c56-b46a-9492a6d09449",
+              "children": [],
+              "examples": [
+                {
+                  "id": "2f051b64-fe1b-4bd0-b4de-e8b6436228d3",
+                  "name": "ldf",
+                  "content": "",
+                  "language": "python",
+                  "created_at": "2025-09-07T21:07:21.308563",
+                  "updated_at": "2025-09-07T21:07:21.308563"
+                }
+              ],
+              "tags": [],
+              "created_at": "2025-09-07T21:05:56.060583",
+              "updated_at": "2025-09-07T21:07:37.088821",
+              "is_expanded": false
+            }
+          ],
+          "examples": [],
+          "tags": [],
+          "created_at": "2025-09-07T21:05:27.454333",
+          "updated_at": "2025-09-07T21:05:56.060583",
+          "is_expanded": false
+        }
+      ],
+      "examples": [],
+      "tags": [],
+      "created_at": "2025-09-07T21:04:59.109673",
+      "updated_at": "2025-09-07T21:05:27.454333",
+      "is_expanded": false
+    }
+  ],
+  "created_at": "2025-09-07T00:00:00",
+  "updated_at": "2025-09-07T21:04:59.109673",
+  "version": "1.0.0"
+}
